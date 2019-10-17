@@ -8,6 +8,7 @@ Fast enumeration and vulnerabilities scan with nmap
 October 2019
 
 # Description
+Python fast enumeration and vulnerabilities scan with nmap
 Launches a fast and silent enumeration scanner (nmap -sS). The next scanners are performed only on the hosts and ports founds active or open by the first scan.
 
 # Requirements
