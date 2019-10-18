@@ -8,7 +8,7 @@ Fast enumeration and vulnerabilities scan with nmap
 October 2019
 
 # Description
-Python fast enumeration and vulnerabilities scan with nmap
+Python3 fast enumeration and vulnerabilities scan with nmap
 Launches a fast and silent enumeration scanner (nmap -sS). The next scanners are performed only on the hosts and ports founds active or open by the first scan.
 
 # Requirements
@@ -23,7 +23,7 @@ sudo pip install termcolor
                         
 # Usage
 ```bash
-usage: sudo tcpRapid1.0.py [-h] -t IP/Range [-p y/n] [-e y/n] [-v y/n]
+usage: sudo tcpRapid.py [-h] -t IP/Range [-p y/n] [-e y/n] [-v y/n]
                       [-o sSV/O]
 
 Enumeration and vulnerabilities Scan. Execute with root privileges
