@@ -51,8 +51,8 @@ optional arguments:
 
 # Examples
 ```bash
-$ sudo tcpRapid.py -t 192.168.0.0/24
+$ sudo python3 tcpRapid.py -t 192.168.0.0/24
 ```
 ```bash
-$ sudo tcpRapid.py -p y -e y -v y -o O -t 192.168.0.2 
+$ sudo python3 tcpRapid.py -p y -e y -v y -o O -t 192.168.0.2 
 ```
