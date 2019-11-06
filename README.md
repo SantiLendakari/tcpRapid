@@ -13,11 +13,18 @@ Launches a fast and silent enumeration scanner (nmap -sS). The next scanners are
 
 # Requirements
 ```bash 
+python3
+python3-setuptools
+python3-pip
+nmap
+```
+
+```bash 
 sudo pip install -r requirements.txt
 ```
 or 
 ```bash 
-sudo pip install python-libnmap
+sudo pip install python-nmap
 sudo pip install termcolor
 ```
                         
