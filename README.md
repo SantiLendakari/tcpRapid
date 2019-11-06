@@ -17,12 +17,12 @@ python3 python3-setuptools python3-pip nmap
 ```
 
 ```bash 
-sudo pip install -r requirements.txt
+sudo pip3 install -r requirements.txt
 ```
 or 
 ```bash 
-sudo pip install python-nmap
-sudo pip install termcolor
+sudo pip3 install python-nmap
+sudo pip3 install termcolor
 ```
                         
 # Usage
